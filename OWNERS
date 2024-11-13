@@ -1,6 +1,6 @@
-approvers:
-- cm-maintainers
 reviewers:
-- cm-maintainers
-- spectralhiss
-- thatsmrtalbot
+  - TrilokGeer
+  - swghosh
+  - bharath-b-rh
+approvers:
+  - TrilokGeer
